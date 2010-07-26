@@ -1,0 +1,12 @@
+parameters:
+    kernel.include_core_classes: false
+
+kernel.config: ~
+
+web.config: # enables the Web DI extension
+  router: { resource: "%kernel.root_dir%/config/routing.yml" } # enables the Routing DI extension
+
+web.templating: ~
+
+doctrine.dbal: ~
+doctrine.orm: ~

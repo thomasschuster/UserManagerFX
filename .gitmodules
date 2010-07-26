@@ -1,15 +1,9 @@
 [submodule "src/vendor/symfony"]
 	path = src/vendor/symfony
 	url = http://github.com/symfony/symfony.git
-[submodule "src/vendor/doctrine/orm"]
-	path = src/vendor/doctrine/orm
-	url = git://github.com/doctrine/doctrine2.git
-[submodule "src/vendor/doctrine/dbal"]
-	path = src/vendor/doctrine/dbal
-	url = git://github.com/doctrine/dbal.git
-[submodule "src/vendor/doctrine/common"]
-	path = src/vendor/doctrine/common
-	url = git://github.com/doctrine/common.git
 [submodule "src/vendor/zendframework"]
 	path = src/vendor/zendframework
 	url = http://github.com/zendframework/zf2.git
+[submodule "src/vendor/doctrine"]
+	path = src/vendor/doctrine
+	url = http://github.com/doctrine/doctrine2.git
