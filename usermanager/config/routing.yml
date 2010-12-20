@@ -1,6 +1,0 @@
-homepage:
-  pattern: /
-  defaults: { _controller: UserManagerBundle:User:home }
-
-user_list:
-  resource: UserManagerBundle/Resources/config/routing.yml

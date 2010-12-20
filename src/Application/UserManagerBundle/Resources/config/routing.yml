@@ -1,3 +1,0 @@
-user_list:
-  pattern: dummy/:name
-  defaults: { _controller: UserManagerBundle:User:index }
