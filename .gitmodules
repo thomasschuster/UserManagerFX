@@ -1,9 +1,0 @@
-[submodule "src/vendor/symfony"]
-	path = src/vendor/symfony
-	url = http://github.com/symfony/symfony.git
-[submodule "src/vendor/zendframework"]
-	path = src/vendor/zendframework
-	url = http://github.com/zendframework/zf2.git
-[submodule "src/vendor/doctrine"]
-	path = src/vendor/doctrine
-	url = http://github.com/doctrine/doctrine2.git
